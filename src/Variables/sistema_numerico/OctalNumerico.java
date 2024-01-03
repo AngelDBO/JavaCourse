@@ -1,4 +1,4 @@
-package sistema_numerico;
+package Variables.sistema_numerico;
 
 public class OctalNumerico {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sistema_numerico;
+package Variables.sistema_numerico;
 
 import javax.swing.*;
 

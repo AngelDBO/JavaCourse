@@ -1,4 +1,4 @@
-package primitivos;
+package Variables.primitivos;
 
 public class TipoShort {
     public static void main(String[] args) {

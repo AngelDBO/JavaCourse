@@ -1,4 +1,4 @@
-package hola_mundo;
+package Variables.hola_mundo;
 
 public class HolaMundo {
     public static void main(String[] args) {

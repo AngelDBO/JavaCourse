@@ -1,4 +1,4 @@
-package caracteres;
+package Variables.caracteres;
 
 public class TiposCharEspeciales {
     public static void main(String[] args) {

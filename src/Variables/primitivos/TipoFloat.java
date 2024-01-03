@@ -1,4 +1,4 @@
-package primitivos;
+package Variables.primitivos;
 
 public class TipoFloat {
     public static void main(String[] args) {
