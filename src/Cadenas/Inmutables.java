@@ -1,4 +1,4 @@
-package Variables.caracteres;
+package Cadenas;
 
 public class Inmutables {
     public static void main(String[] args) {
@@ -15,5 +15,12 @@ public class Inmutables {
         });
 
         System.out.println("curso = " + curso);
+
+        String resultado3 = result;
+        System.out.println("resultado3 = " + resultado3);
+
+        String resultado4 = result.replace("A", "E");
+        System.out.println("resultado4 = " + resultado4);
+
     }
 }

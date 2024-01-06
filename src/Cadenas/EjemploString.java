@@ -13,5 +13,6 @@ public class EjemploString {
 
         boolean esIgual2 = curso == curso2;
         System.out.println("esIgual2 = " + esIgual2);
+
     }
 }
